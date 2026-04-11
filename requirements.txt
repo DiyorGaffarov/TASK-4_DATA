@@ -2,3 +2,4 @@ notebook
 pandas
 ipkernel
 pyyaml
+matplotlib
