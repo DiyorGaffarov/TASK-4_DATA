@@ -7,3 +7,5 @@ __pycache__
 books.yaml
 orders.parquet
 users.csv
+
+.webappignore
